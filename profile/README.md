@@ -5,3 +5,5 @@ Our goal is to make this knowledge open, accessible, and easy to find, because n
 - Discord [Server](https://discord.gg/y5gRdBP3bH)  
 
 If you're joining the Discord just to flex about already knowing SSL bypassing methods without contributing, this probably isn't the space for you.
+
+> **Note:** This project is strictly for educational purposes. We do not condone the use of cheats, exploits, or any malicious activity related to this repository. Our only intent is to enjoy older Fortnite seasons in a safe and respectful environment.
